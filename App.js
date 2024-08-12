@@ -1,10 +1,17 @@
+export let App=()=>{
+  return(
+    <h1>Hello Users.!</h1>
+  )
+}
+
+/*                          uncomment this only for better understanding, after that go upwardly to uncomment upper one and comment this one.
 function User() {
   return(
     <h2>Welcome to first Page</h2>
   )
 }
 export default User
-
+*/
 
 
 // import logo from './logo.svg';
